@@ -163,7 +163,7 @@ chmod +x vehicle-monitoring/vehicle_system_monitor.sh
 这些工具在以下项目中实际使用：
 
 ### 1. 全场景辅助驾驶系统测试（2020-2022）
-- 领克车型NOA系统测试
+- 某车型NOA系统测试
 - 使用CANoe、Python进行数据分析
 - 使用Robot Framework进行自动化测试
 
